@@ -1,3 +1,3 @@
 [submodule "codelabs"]
-	path = codelabs
+	path = site/codelabs
 	url = https://github.com/Mrc0113/codelabs-test.git
