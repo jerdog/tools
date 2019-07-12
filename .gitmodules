@@ -1,0 +1,3 @@
+[submodule "codelabs"]
+	path = codelabs
+	url = git@github.com:Mrc0113/codelabs-test.git
